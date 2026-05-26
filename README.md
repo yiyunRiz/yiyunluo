@@ -32,8 +32,11 @@ B.S. in Geomatics.
 
 ## Ongoing Research
 
-- **OPMVS: Open-World Multi-View Stereo with Aerial Imagery.** Submitted, 2026. With Jinnian Wang, Jean Sequeira, and Sebastien Mavromatis.
+- **OPMVS: Open-World Multi-View Stereo with Aerial Imagery** 
 
+- **Aero‑Bench: A Geometry‑Grounded Benchmark for Spatial Reasoning in Aerial Scenes**
+
+  With Jinnian Wang, Jean Sequeira, and Sebastien Mavromatis.
 ## Talks
 
 - **DDPM-based Feature Learner Enables Label-Efficient Transfer in Land Cover Classification**, oral presentation, SPIE Optics + Photonics, San Diego, USA, August 2025.
