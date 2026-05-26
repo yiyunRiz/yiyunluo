@@ -40,8 +40,11 @@ My doctoral research focuses on **3D reconstruction from multi-view aerial image
 
 ## Ongoing Research
 
-**OPMVS: Open-World Multi-View Stereo with Aerial Imagery**  
-Submitted, 2026. With Jinnian Wang, Jean Sequeira, and Sebastien Mavromatis.
+**OPMVS: Open-World Multi-View Stereo with Aerial Imagery** 
+
+**Aero‑Bench: A Geometry‑Grounded Benchmark for Spatial Reasoning in Aerial Scenes**
+
+With Jinnian Wang, Jean Sequeira, and Sebastien Mavromatis.
 
 ## Education
 
