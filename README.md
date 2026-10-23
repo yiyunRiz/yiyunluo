@@ -1,6 +1,6 @@
 # Yiyun Luo | 罗逸云
 
-Ph.D. Candidate in Computer Science at **Aix-Marseille University**, affiliated with the **Computer Science and Systems Laboratory (LIS)** in Marseille, France.
+Ph.D. in Computer Science at **Aix-Marseille University**, affiliated with the **Computer Science and Systems Laboratory (LIS)** in Marseille, France.
 
 I work on intelligent perception from aerial and remote-sensing imagery, connecting visual foundation models, diffusion-based representation learning, photogrammetry, and multi-view 3D reconstruction.
 
@@ -16,7 +16,7 @@ I work on intelligent perception from aerial and remote-sensing imagery, connect
 ## Education
 
 **Aix-Marseille University**, France  
-Ph.D. Candidate in Computer Science.
+Ph.D. in Computer Science.
 
 **Guangzhou University**, China  
 M.S. in Geomatics.
@@ -32,9 +32,10 @@ B.S. in Geomatics.
 
 ## Ongoing Research
 
-- **OPMVS: Open-World Multi-View Stereo with Aerial Imagery** 
+- **OPMVS: Open-World Multi-View Stereo with Aerial Imagery**  
+  *Under review, ISPRS Journal of Photogrammetry and Remote Sensing*
 
-- **Aero‑Bench: A Geometry‑Grounded Benchmark for Spatial Reasoning in Aerial Scenes**
+- **RSSR-Bench: Benchmarking Vision-Language Models on Spatial Reasoning over Remote Sensing Imagery**
 
   With Jinnian Wang, Jean Sequeira, and Sebastien Mavromatis.
 ## Talks

@@ -5,7 +5,7 @@ title: Yiyun Luo | 罗逸云
 
 # Yiyun Luo | 罗逸云
 
-**Ph.D. Candidate in Computer Science**  
+**Ph.D. in Computer Science**  
 Aix-Marseille University | Computer Science and Systems Laboratory (LIS)  
 Marseille, France
 
@@ -40,16 +40,17 @@ My doctoral research focuses on **3D reconstruction from multi-view aerial image
 
 ## Ongoing Research
 
-**OPMVS: Open-World Multi-View Stereo with Aerial Imagery** 
+**OPMVS: Open-World Multi-View Stereo with Aerial Imagery**  
+*Under review, ISPRS Journal of Photogrammetry and Remote Sensing*
 
-**Aero‑Bench: A Geometry‑Grounded Benchmark for Spatial Reasoning in Aerial Scenes**
+**RSSR-Bench: Benchmarking Vision-Language Models on Spatial Reasoning over Remote Sensing Imagery**
 
 With Jinnian Wang, Jean Sequeira, and Sebastien Mavromatis.
 
 ## Education
 
 **Aix-Marseille University**, France  
-Ph.D. Candidate in Computer Science.
+Ph.D. in Computer Science.
 
 **Guangzhou University**, China  
 M.S. in Geomatics.
