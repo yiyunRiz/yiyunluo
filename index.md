@@ -24,7 +24,7 @@ My doctoral research focuses on **3D reconstruction from multi-view aerial image
 - Remote sensing imagery analysis
 - Geospatial information and earth observation
 
-## Selected Publications
+## Publications
 
 **Label-Efficient Fine-Tuning for Remote Sensing Imagery Segmentation with Diffusion Models**  
 **Yiyun Luo**, Jinnian Wang, Jean Sequeira, Xiankun Yang, Dakang Wang, Jiabin Liu, Grekou Yao, and Sebastien Mavromatis.  

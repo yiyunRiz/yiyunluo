@@ -24,7 +24,7 @@ M.S. in Geomatics.
 **Xiangtan University**, China  
 B.S. in Geomatics.
 
-## Selected Publications
+## Publications
 
 - **Yiyun Luo**, Jinnian Wang, Jean Sequeira, Xiankun Yang, Dakang Wang, Jiabin Liu, Grekou Yao, and Sebastien Mavromatis. **Label-Efficient Fine-Tuning for Remote Sensing Imagery Segmentation with Diffusion Models.** *Remote Sensing*, 17(15):2579, 2025. [[Paper]](https://doi.org/10.3390/rs17152579)
 - **Yiyun Luo**, R. Huang, Sebastien Mavromatis, Jean Sequeira, Jiabin Liu, and Jinnian Wang. **DDPM-based Feature Learner Enables Label-Efficient Transfer in Land Cover Classification.** *Proceedings of SPIE 13616*, 2025.
