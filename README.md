@@ -26,18 +26,20 @@ B.S. in Geomatics.
 
 ## Publications
 
-- **Yiyun Luo**, Jinnian Wang, Jean Sequeira, Xiankun Yang, Dakang Wang, Jiabin Liu, Grekou Yao, and Sebastien Mavromatis. **Label-Efficient Fine-Tuning for Remote Sensing Imagery Segmentation with Diffusion Models.** *Remote Sensing*, 17(15):2579, 2025. [[Paper]](https://doi.org/10.3390/rs17152579)
+- **Yiyun Luo**, Jinnian Wang, Jean Sequeira, Xiankun Yang, Dakang Wang, Jiabin Liu, Grekou Yao, and Sebastien Mavromatis. **Label-Efficient Fine-Tuning for Remote Sensing Imagery Segmentation with Diffusion Models.** *Remote Sensing*, 17(15):2579, 2025. [[Paper]](https://doi.org/10.3390/rs17152579) [[Code]](https://github.com/yiyunRiz/LFDM)
 - **Yiyun Luo**, R. Huang, Sebastien Mavromatis, Jean Sequeira, Jiabin Liu, and Jinnian Wang. **DDPM-based Feature Learner Enables Label-Efficient Transfer in Land Cover Classification.** *Proceedings of SPIE 13616*, 2025.
-- **Yiyun Luo**, Jinnian Wang, Xiankun Yang, Z. Yu, and Z. Tan. **Pixel Representation Augmented Through Cross-Attention for High-Resolution Remote Sensing Imagery Segmentation.** *Remote Sensing*, 2022.
+- **Yiyun Luo**, Jinnian Wang, Xiankun Yang, Zhenyu Yu, and Zixuan Tan. **Pixel Representation Augmented through Cross-Attention for High-Resolution Remote Sensing Imagery Segmentation.** *Remote Sensing*, 14(21):5415, 2022. [[Paper]](https://doi.org/10.3390/rs14215415)
 
 ## Ongoing Research
 
 - **OPMVS: Open-World Multi-View Stereo with Aerial Imagery**  
-  *Under review, ISPRS Journal of Photogrammetry and Remote Sensing*
+  *Under review, ISPRS Journal of Photogrammetry and Remote Sensing* [[Code]](https://github.com/yiyunRiz/OPMVS)
 
-- **RSSR-Bench: Benchmarking Vision-Language Models on Spatial Reasoning over Remote Sensing Imagery**
+- **RSSR-Bench: Benchmarking Vision-Language Models on Spatial Reasoning over Remote Sensing Imagery**  
+  *Submitted to CVPR 2027*
 
-  With Jinnian Wang, Jean Sequeira, and Sebastien Mavromatis.
+With Jinnian Wang, Jean Sequeira, and Sebastien Mavromatis.
+
 ## Talks
 
 - **DDPM-based Feature Learner Enables Label-Efficient Transfer in Land Cover Classification**, oral presentation, SPIE Optics + Photonics, San Diego, USA, August 2025.
