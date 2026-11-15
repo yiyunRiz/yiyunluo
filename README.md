@@ -35,10 +35,7 @@ B.S. in Geomatics.
 - **OPMVS: Open-World Multi-View Stereo with Aerial Imagery**  
   *Under review, ISPRS Journal of Photogrammetry and Remote Sensing* [[Code]](https://github.com/yiyunRiz/OPMVS)
 
-- **RSSR-Bench: Benchmarking Vision-Language Models on Spatial Reasoning over Remote Sensing Imagery**  
-  *Submitted*
-
-With Jinnian Wang, Jean Sequeira, and Sebastien Mavromatis.
+- **Yiyun Luo**, Jinnian Wang, Jean Sequeira, and Sebastien Mavromatis. **RSSR-Bench: Benchmarking Vision-Language Models on Spatial Reasoning over Remote Sensing Imagery.** *Submitted*
 
 ## Talks
 
