@@ -1,4 +1,4 @@
-# Yiyun Luo | 罗逸云
+# Yiyun Luo
 
 Ph.D. in Computer Science at **Aix-Marseille University**, affiliated with the **Computer Science and Systems Laboratory (LIS)** in Marseille, France.
 
