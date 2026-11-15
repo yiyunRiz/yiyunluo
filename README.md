@@ -36,7 +36,7 @@ B.S. in Geomatics.
   *Under review, ISPRS Journal of Photogrammetry and Remote Sensing* [[Code]](https://github.com/yiyunRiz/OPMVS)
 
 - **RSSR-Bench: Benchmarking Vision-Language Models on Spatial Reasoning over Remote Sensing Imagery**  
-  *Submitted to CVPR 2027*
+  *Submitted*
 
 With Jinnian Wang, Jean Sequeira, and Sebastien Mavromatis.
 
